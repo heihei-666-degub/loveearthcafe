@@ -60,7 +60,7 @@
     "uniqCompNum": 157,
     "versionPublish": "6.1.12",
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png",
     "favicon": false,
     "mbrsiteDomain": "6e2w6vsg2s",
